@@ -1,0 +1,22 @@
+footer {
+    background-color: #202226;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    margin-bottom: 50025px
+}
+.navbar{
+    background-color: #202226;
+    min-height: 110px;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+}
+
+button{
+  margin-left: 857px;
+  margin-top: 37px;
+}
+
+.dropdown-menu{
+  margin-left: 903px;
+}
